@@ -1,3 +1,6 @@
+<img width="288" height="288" alt="89794107" src="https://github.com/user-attachments/assets/38084cba-885b-4bd4-87ff-bea917fa1002" />
+
+
 # Richard Flores — Python Developer
 
 ## 👋 Quién soy
