@@ -65,6 +65,8 @@ En los últimos años he incorporado una metodología de **desarrollo asistido p
 * MySQL
 * MariaDB
 * SQLite
+* SQL Server
+* MongoDb
 
 ### Herramientas
 
