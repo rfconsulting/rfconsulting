@@ -1,4 +1,4 @@
-# Richard Flores — Software Developer | Consultor de Sistemas Empresariales
+# Richard Flores — Software Developer | ERP & Business Systems Consultant | AI-Assisted Software Engineering
 
 ## 👋 Quién soy
 
