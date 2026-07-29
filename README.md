@@ -1,33 +1,124 @@
-# Richard Flores — Python Developer
+# Richard Flores — Software Developer | Consultor de Sistemas Empresariales
 
 ## 👋 Quién soy
 
-Consultor de sistemas con enfoque en **automatización, bases de datos y soluciones de negocio desarrolladas en Python**. Trabajo con problemas reales: datos desordenados, procesos manuales, falta de documentación técnica y necesidad de decisiones basadas en información clara.
+Soy consultor de sistemas y desarrollador de software con experiencia en la implementación, soporte e integración de soluciones empresariales.
 
-Mi perfil combina **experiencia funcional (ERP / contabilidad / operaciones)** con **desarrollo práctico en Python**, orientado a herramientas útiles, mantenibles y bien documentadas.
+Actualmente combino tres áreas de trabajo:
+
+- Consultoría en sistemas de gestión de recursos empresariales (ERP).
+- Soporte técnico e integración con plataformas de facturación electrónica.
+- Desarrollo de aplicaciones y plataformas web para resolver necesidades reales de negocio.
+
+Mi experiencia funcional en **ERP, contabilidad, operaciones y capacitación de usuarios** me permite comprender primero el problema del negocio y luego desarrollar soluciones tecnológicas que sean útiles, mantenibles y fáciles de evolucionar.
+
+En los últimos años he incorporado una metodología de **desarrollo asistido por IA**, basada en especificaciones, arquitectura modular, seguridad desde el diseño y documentación técnica, utilizando la IA como herramienta de ingeniería y no como sustituto del criterio técnico.
 
 ---
 
 ## 🧠 En qué me especializo
 
+### 💼 Consultoría y soporte empresarial
+
+* Consultoría en sistemas ERP
+* Integración y soporte de facturación electrónica
+* Capacitación de usuarios
+* Diagnóstico y resolución de incidencias
+* Optimización de procesos administrativos y operativos
+
+### 💻 Desarrollo de software
+
+* Desarrollo Full Stack con HTML, CSS, JavaScript, Node.js y Express
 * Automatización de procesos con Python
-* Herramientas CLI para análisis y documentación
-* Bases de datos relacionales (MySQL / MariaDB / SQLite)
-* Scripts de apoyo para sistemas ERP y operaciones financieras
-* Bots y lógica de negocio basada en reglas
+* Diseño de bases de datos MySQL y MariaDB
+* APIs e integración entre sistemas
+* Desarrollo modular y mantenible
+
+### 🏗️ Ingeniería de software
+
+* Arquitectura modular
+* Seguridad desde el diseño
+* Control de acceso y autenticación
+* Documentación técnica
+* Desarrollo guiado por especificaciones
+* Desarrollo asistido por IA
+* Auditoría y evolución continua del software
 
 ---
 
 ## 🛠️ Stack técnico
 
-* **Lenguaje:** Python
-* **Datos:** SQL, SQLite, MySQL, MariaDB
-* **Herramientas:** Git, GitHub, CLI tools
-* **Buenas prácticas:** arquitectura modular, separación de responsabilidades, documentación clara
+### Backend
+
+* Node.js
+* Express
+* Python
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Bases de datos
+
+* MySQL
+* MariaDB
+* SQLite
+
+### Herramientas
+
+* Git
+* GitHub
+* GitHub Actions
+* Markdown
+* CLI Tools
+
+### Buenas prácticas
+
+* Arquitectura modular
+* Separación de responsabilidades
+* Seguridad desde el diseño
+* Integración continua
+* Documentación técnica
+* Desarrollo asistido por IA
 
 ---
 
 ## 📌 Proyectos destacados
+
+### 🔹 Psicoeducándonos
+
+**Plataforma educativa desarrollada con Node.js, Express, MySQL y JavaScript.**
+
+Incluye:
+
+* Gestión académica por cursos, módulos y lecciones
+* Autenticación por roles y MFA
+* Sistema de postulaciones
+* Seguimiento académico
+* Auditoría de actividades
+* Arquitectura documentada
+* Desarrollo evolutivo con migraciones
+* Despliegue en producción
+
+Proyecto desarrollado siguiendo una metodología propia de ingeniería de software asistida por IA.
+
+---
+
+### 🔹 Plataforma de Facturación Electrónica *(en desarrollo)*
+
+Sistema empresarial para administración e integración de documentos fiscales electrónicos.
+
+Diseñado bajo principios de arquitectura modular, seguridad y mantenibilidad.
+
+---
+
+### 🔹 Plataforma de Análisis Financiero *(en desarrollo)*
+
+Aplicación orientada al análisis financiero y apoyo a la toma de decisiones mediante automatización y procesamiento de datos.
+
+---
 
 ### 🔹 dbmanager
 
@@ -37,48 +128,61 @@ Mi perfil combina **experiencia funcional (ERP / contabilidad / operaciones)** c
 * Analiza tablas, columnas, relaciones e índices
 * Pensado para desarrolladores y consultores
 
-👉 [https://github.com/rfconsulting/dbmanager](https://github.com/rfconsulting/dbmanager)
-
----
-
-### 🔹 bot_trading_ec
-
-**Bot de trading en Python basado en estrategias técnicas.**
-
-* EMA, Bandas de Bollinger, patrones de velas
-* Arquitectura modular para estrategias
-* Enfoque educativo y experimental
-
-👉 [https://github.com/rfconsulting/bot_trading_ec](https://github.com/rfconsulting/bot_trading_ec)
+👉 https://github.com/rfconsulting/dbmanager
 
 ---
 
 ### 🔹 POSystem
 
-**Sistema POS básico (backend Python + frontend HTML).**
+**Sistema POS desarrollado como laboratorio para comprender procesos empresariales y arquitectura de aplicaciones.**
 
-* Login, CRUD, registros y reportes
-* Proyecto orientado a entender flujo de negocio
-* Base para migrar a framework web
+* Gestión de usuarios
+* CRUD
+* Reportes
+* Flujo de negocio
+* Base para evolución hacia aplicaciones web completas
 
-👉 [https://github.com/rfconsulting/POSystem](https://github.com/rfconsulting/POSystem)
+👉 https://github.com/rfconsulting/POSystem
+
+---
+
+## 🚀 Mi metodología de trabajo
+
+Mi proceso de desarrollo combina principios clásicos de ingeniería de software con herramientas modernas de IA.
+
+Cada proyecto sigue un flujo similar:
+
+1. Comprensión del problema de negocio.
+2. Definición de requisitos.
+3. Diseño de arquitectura y modelo de datos.
+4. Especificación de reglas y restricciones.
+5. Implementación modular asistida por IA.
+6. Auditoría y revisión técnica.
+7. Pruebas y validación.
+8. Documentación.
+9. Despliegue y evolución continua.
+
+La IA forma parte del proceso de implementación y revisión, mientras que las decisiones de arquitectura, seguridad y calidad permanecen bajo control del desarrollador.
 
 ---
 
 ## 🎯 En qué estoy trabajando ahora
 
-* Mejorar documentación y tests de mis proyectos
-* Convertir herramientas internas en proyectos reutilizables
-* Profundizar en automatización aplicada a finanzas y ERP
+* Evolucionar Psicoeducándonos como plataforma SaaS.
+* Desarrollar una plataforma de facturación electrónica.
+* Construir una plataforma de análisis financiero.
+* Consolidar una metodología propia de desarrollo asistido por IA para proyectos empresariales.
+* Convertir soluciones internas en productos reutilizables y listos para producción.
 
 ---
 
 ## 📫 Contacto
 
-Si te interesa colaborar o necesitas una solución técnica basada en Python:
+Si te interesa colaborar o necesitas apoyo en consultoría de sistemas, integración de soluciones empresariales o desarrollo de software:
 
-* GitHub: [https://github.com/rfconsulting](https://github.com/rfconsulting)
+* GitHub: https://github.com/rfconsulting
+* Sitio web: https://www.rfcpty.com
 
 ---
 
-> "Código claro, propósito claro y resultados medibles."
+> *"La tecnología aporta valor cuando entiende primero el negocio. El código es solo una parte; la arquitectura, la seguridad y la evolución del software son las que permiten que una solución perdure."*
