@@ -87,64 +87,24 @@ En los últimos años he incorporado una metodología de **desarrollo asistido p
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos comerciales
 
-### 🔹 Psicoeducándonos
+Desarrollo soluciones que conectan procesos empresariales, educación y productividad. El código de estos productos se mantiene privado; las siguientes fichas presentan su propósito, alcance y evolución.
 
-**Plataforma educativa desarrollada con Node.js, Express, MySQL y JavaScript.**
+| Proyecto | Propósito | Estado | Caso de estudio |
+| --- | --- | --- | --- |
+| Facturación electrónica | Conectar CRM, ventas, emisión electrónica y cobros en Panamá | Desarrollo y validación | [Ver proyecto](proyectos/facturacion-electronica.md) |
+| Psicoeducándonos | Organizar formación y seguimiento académico | Producción y evolución, según presentación del proyecto | [Ver proyecto](proyectos/psicoeducandonos.md) |
+| Propositum | Relacionar propósito, roles, objetivos, metas y tareas | En desarrollo | [Ver proyecto](proyectos/propositum.md) |
+| Análisis financiero | Procesar movimientos y facilitar su análisis | En desarrollo | [Ver proyecto](proyectos/analisis-financiero.md) |
 
-Incluye:
+Las fichas distinguen el alcance documentado de los planes de evolución. Para conocer disponibilidad y alcance vigente, [solicita información a RF Consulting](https://www.rfcpty.com).
 
-* Gestión académica por cursos, módulos y lecciones
-* Autenticación por roles y MFA
-* Sistema de postulaciones
-* Seguimiento académico
-* Auditoría de actividades
-* Arquitectura documentada
-* Desarrollo evolutivo con migraciones
-* Despliegue en producción
+## 🔓 Proyectos públicos
 
-Proyecto desarrollado siguiendo una metodología propia de ingeniería de software asistida por IA.
-
----
-
-### 🔹 Plataforma de Facturación Electrónica *(en desarrollo)*
-
-Sistema empresarial para administración e integración de documentos fiscales electrónicos.
-
-Diseñado bajo principios de arquitectura modular, seguridad y mantenibilidad.
-
----
-
-### 🔹 Plataforma de Análisis Financiero *(en desarrollo)*
-
-Aplicación orientada al análisis financiero y apoyo a la toma de decisiones mediante automatización y procesamiento de datos.
-
----
-
-### 🔹 dbmanager
-
-**Herramienta CLI para documentar y analizar esquemas de bases de datos relacionales.**
-
-* Genera documentación en Markdown y JSON
-* Analiza tablas, columnas, relaciones e índices
-* Pensado para desarrolladores y consultores
-
-👉 https://github.com/rfconsulting/dbmanager
-
----
-
-### 🔹 POSystem
-
-**Sistema POS desarrollado como laboratorio para comprender procesos empresariales y arquitectura de aplicaciones.**
-
-* Gestión de usuarios
-* CRUD
-* Reportes
-* Flujo de negocio
-* Base para evolución hacia aplicaciones web completas
-
-👉 https://github.com/rfconsulting/POSystem
+- [DBManager](https://github.com/rfconsulting/dbmanager): herramienta para analizar metadatos y documentar bases de datos relacionales en Markdown y JSON.
+- [AI-Assisted Software Engineering Playbook](https://github.com/rfconsulting/AI-Assisted-Software-Engineering-Playbook): prácticas, plantillas y criterios de calidad para desarrollar con apoyo de IA.
+- [Modelo de aplicación web PWA empresarial](https://github.com/rfconsulting/modelo-de-aplicacion-web-pwa-empresarial): ejemplo de interfaz App Shell con módulos ES y capacidades PWA.
 
 ---
 
@@ -188,3 +148,4 @@ Si te interesa colaborar o necesitas apoyo en consultoría de sistemas, integrac
 ---
 
 > *"La tecnología aporta valor cuando entiende primero el negocio. El código es solo una parte; la arquitectura, la seguridad y la evolución del software son las que permiten que una solución perdure."*
+
