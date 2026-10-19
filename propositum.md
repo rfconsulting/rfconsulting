@@ -36,5 +36,5 @@ El alcance y la disponibilidad de una demostración se confirman directamente. T
 
 ---
 
-[← Volver al perfil](../README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
+[← Volver al perfil](README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
 
