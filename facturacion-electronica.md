@@ -48,5 +48,5 @@ Puede solicitarse una demostración del flujo comercial con datos ficticios. Est
 
 ---
 
-[← Volver al perfil](../README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
+[← Volver al perfil](README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
 
