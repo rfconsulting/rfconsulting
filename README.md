@@ -93,10 +93,10 @@ Desarrollo soluciones que conectan procesos empresariales, educación y producti
 
 | Proyecto | Propósito | Estado | Caso de estudio |
 | --- | --- | --- | --- |
-| Facturación electrónica | Conectar CRM, ventas, emisión electrónica y cobros en Panamá | Desarrollo y validación | [Ver proyecto](proyectos/facturacion-electronica.md) |
-| Psicoeducándonos | Organizar formación y seguimiento académico | Producción y evolución, según presentación del proyecto | [Ver proyecto](proyectos/psicoeducandonos.md) |
-| Propositum | Relacionar propósito, roles, objetivos, metas y tareas | En desarrollo | [Ver proyecto](proyectos/propositum.md) |
-| Análisis financiero | Procesar movimientos y facilitar su análisis | En desarrollo | [Ver proyecto](proyectos/analisis-financiero.md) |
+| Facturación electrónica | Conectar CRM, ventas, emisión electrónica y cobros en Panamá | Desarrollo y validación | [Ver proyecto](facturacion-electronica.md) |
+| Psicoeducándonos | Organizar formación y seguimiento académico | Producción y evolución, según presentación del proyecto | [Ver proyecto](psicoeducandonos.md) |
+| Propositum | Relacionar propósito, roles, objetivos, metas y tareas | En desarrollo | [Ver proyecto](propositum.md) |
+| Análisis financiero | Procesar movimientos y facilitar su análisis | En desarrollo | [Ver proyecto](analisis-financiero.md) |
 
 Las fichas distinguen el alcance documentado de los planes de evolución. Para conocer disponibilidad y alcance vigente, [solicita información a RF Consulting](https://www.rfcpty.com).
 
