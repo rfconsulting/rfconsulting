@@ -40,5 +40,5 @@ La presentación del producto puede realizarse con cuentas y contenido de demost
 
 ---
 
-[← Volver al perfil](../README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
+[← Volver al perfil](README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
 
