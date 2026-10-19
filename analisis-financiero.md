@@ -32,5 +32,5 @@ Cualquier muestra pública debe utilizar datos sintéticos. No se incluyen movim
 
 ---
 
-[← Volver al perfil](../README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
+[← Volver al perfil](README.md) · [Consultar con RF Consulting](https://www.rfcpty.com)
 
